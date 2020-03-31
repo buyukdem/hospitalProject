@@ -17,4 +17,4 @@ best <- function(state, outcome){
         return(hosp)
     }
     
-}
+} 
